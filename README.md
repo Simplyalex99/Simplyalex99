@@ -6,7 +6,7 @@
 
 A passionate self-taught student developer looking to tackle new challenges and make an impact in the lives of others!
 
-- 🔭 I’m currently working on Software For Love. 
+- 🔭 I’m currently working on <a href="https://github.com/Software-For-Love/software-for-love-site">Software For Love.</a> 
 - 🌱 I’m currently learning Neural Networks 
 - ⚡ Fun fact: This is fun. 
 
