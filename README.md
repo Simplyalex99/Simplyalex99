@@ -19,6 +19,10 @@ A passionate self-taught student developer looking to tackle new challenges and 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Contributions
+- <a href="https://github.com/Software-For-Love/software-for-love-site">Software For Love.</a> 
+- <a href="https://github.com/oasis-sh/oasis">Oasis</a>
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simplyalex99)](https://github.com/Simplyalex99/github-readme-stats)
 
