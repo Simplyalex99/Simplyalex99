@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Alex
 #### Machine Learning/Software Developer
-![Machine Learning/Software Developer](https://scontent.fybz1-1.fna.fbcdn.net/v/t1.6435-9/241193865_3009345642668908_6755978444625996500_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Ytk-l2RQH3MAX8DrZ1h&tn=ZXwYimsxOgKKUXBa&_nc_ht=scontent.fybz1-1.fna&oh=5877ecfe98c5237c9014233f52a549b6&oe=61621377)
+
+![Machine Learning/Software Developer](https://scontent.fybz1-1.fna.fbcdn.net/v/t1.6435-9/241193865_3009345642668908_6755978444625996500_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Ytk-l2RQH3MAX8DrZ1h&tn=ZXwYimsxOgKKUXBa&_nc_ht=scontent.fybz1-1.fna&oh=5877ecfe98c5237c9014233f52a549b6&oe=61621377 | width=100)
+
 
 A passionate self-taught student developer looking to tackle new challenges and make an impact in the lives of others!
 
