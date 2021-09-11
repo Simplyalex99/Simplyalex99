@@ -20,6 +20,7 @@ A passionate self-taught student developer looking to tackle new challenges and 
 ## Contributions
 - <a href="https://github.com/Software-For-Love/software-for-love-site">Software For Love.</a> 
 - <a href="https://github.com/oasis-sh/oasis">Oasis</a>
+- <a href="https://github.com/DeepGenX">DeepGenX</a>
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simplyalex99)](https://github.com/Simplyalex99/github-readme-stats)
 
