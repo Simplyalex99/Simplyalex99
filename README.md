@@ -3,8 +3,9 @@
 
 A passionate self-taught student developer looking to tackle new challenges and make an impact in the lives of others!
 
-- 🔭 I’m currently working on <a href="https://github.com/Software-For-Love/software-for-love-site">Software For Love.</a> and <a href="https://github.com/DeepGenX">DeepGenX</a> 
-- 🌱 I’m currently learning Neural Networks 
+- 🔭 I helped with <a href="https://github.com/Software-For-Love/software-for-love-site">Software For Love.</a> and <a href="https://github.com/DeepGenX">DeepGenX</a> 
+- 🌱 I’m currently working on a brand new personal project with someone to showcase software patterns and software engineering skills. 
+- Future plan is to work on my first big machine learning project using Naive Bayes and NLP so that I can work as a machine learning engineer.
 - ⚡ Fun fact: This is fun. 
 
 
